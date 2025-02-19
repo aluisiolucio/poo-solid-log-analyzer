@@ -55,7 +55,7 @@ Este projeto é um **Sistema Simples de Análise de Logs** implementado em Pytho
 
 ## 🛠️ Como Executar o Projeto
 
-OBS: O projeto utiliza o uv como ferramenta para gerenciar dependências, ambiente (venv) e versão do python.
+**OBS: O projeto utiliza o `uv` como ferramenta para gerenciar dependências, ambiente (venv) e versão do python.**
 
 1. **Clone o repositório:**
    ```sh
