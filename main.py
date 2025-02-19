@@ -4,6 +4,7 @@ from log_analyzer import BasicLogAnalyzer
 from log_observer import PrintObserver
 from log_report import SimpleLogReporter
 
+
 # Exemplo de uso do sistema de análise de logs
 def main():
     # Simulação de logs para demonstração (poderia ser substituído por FileLogReader)
@@ -11,7 +12,7 @@ def main():
         LogEntry(datetime.now(), "info", "Sistema iniciado."),
         LogEntry(datetime.now(), "warning", "Uso elevado de memória."),
         LogEntry(datetime.now(), "error", "Falha ao conectar ao banco de dados."),
-        LogEntry(datetime.now(), "info", "Processo concluído.")
+        LogEntry(datetime.now(), "info", "Processo concluído."),
     ]
 
     # Instancia o analisador e registra um observador

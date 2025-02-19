@@ -59,8 +59,8 @@ OBS: O projeto utiliza o uv como ferramenta para gerenciar dependências, ambien
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://
-   cd 
+   git clone https://github.com/aluisiolucio/poo-solid-log-analyzer
+   cd poo-solid-log-analyzer
    ```
 
 2. **Execute o script:**
